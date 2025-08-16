@@ -1,6 +1,6 @@
 # 📚 E-Learning Web Platform
 
-Hi there! 👋 This project is a full-stack web application I built as part of my Advanced Web Development coursework. It's designed to simulate a real-world e-learning system — with two types of users: **teachers** and **students** — and includes key features like course creation, content sharing, and real-time chat.
+Hi there! 👋 This project is a full-stack web application I built as part of my Advanced Web Development coursework. It's designed to simulate a real-world e-learning system with two types of users: **teachers** and **students** also includes key features like course creation, content sharing, and real-time chat.
 
 ## ✨ What It Does
 
